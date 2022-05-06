@@ -1,0 +1,28 @@
+{
+  "name": "jesttestingudemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleCardwell/jesttestingudemy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyleCardwell/jesttestingudemy/issues"
+  },
+  "homepage": "https://github.com/KyleCardwell/jesttestingudemy#readme",
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "@types/node": "^17.0.31",
+    "jest": "^28.0.3",
+    "ts-jest": "^28.0.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
